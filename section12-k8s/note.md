@@ -26,3 +26,6 @@
 - Check history rollout: `kubectl rollout history deployment/first-app`
 - Check detail: ` kubectl rollout history deployment/first-app --revision=3`
 - Rollback to specific revision: `kubectl rollout undo deployment/first-app --to-revision=1` 
+
+# Probes
+- how we can define for k8s whether pod up and running 
