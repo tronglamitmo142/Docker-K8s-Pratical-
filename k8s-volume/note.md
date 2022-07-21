@@ -1,4 +1,4 @@
-- **Sate** is data createdd and used by your application which must not be lost 
+- **State** is data createdd and used by your application which must not be lost 
   - User generated data, user account (often sotred in DB, but could also be files)
   - Imtermediate results derived by the app (often stored in memory, temporary DB tables or files)
 
